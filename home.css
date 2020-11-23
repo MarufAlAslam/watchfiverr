@@ -1,0 +1,9 @@
+@media only screen and (max-width:768px){
+    .hero img{
+        width: 100% !important;
+    }
+    .hero-title{
+        text-align: center;
+        margin: 10% !important;
+    }
+}
